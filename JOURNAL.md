@@ -55,7 +55,7 @@ All that is left is to do is the two effectors (think: toolhead and bed), the be
 
 
 
-### 5/23/2025 - 4 hours spent
+### 5/23/2025 - 6 hours spent
 
 ![image](https://github.com/user-attachments/assets/d8960fa1-78cd-4d5a-8cae-d90866830a07)
 
@@ -65,7 +65,7 @@ Today I tackled the effectors and extruder. I adjust the arm length to fit bette
 
 I duplicated the base effector to the top. I will be using the effector itself as the print bed in this first revision. Later on it may become heated and made out of CF plate, but for now it will be abs with painters tape on it. Lightweight and dirt cheap. 
 
-I optimised the arm length using a wonderful delta analysis tool from my friend Deadlock. https://github.com/dead-lock-ed/DeltaCalcs. Wonderful tool. 
+I optimised the arm length using a wonderful delta analysis tool from my friend Deadlock. https://github.com/dead-lock-ed/DeltaCalcs. Wonderful tool. This gave me 76.5mm arm length. A good balance between accuracy (max of 0.022mm variance) and not too much of a speed reduction at the edges (2.5). 
 
 
 ![image](https://github.com/user-attachments/assets/b8811687-dabe-4950-bb10-bb2b61c012a8)
