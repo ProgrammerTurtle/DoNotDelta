@@ -52,3 +52,29 @@ All that is left is to do is the two effectors (think: toolhead and bed), the be
 
 ![image](https://github.com/user-attachments/assets/9355e801-524a-46f6-9dcc-685c8a8ce343)
 
+
+
+
+### 5/23/2025 - 4 hours spent
+
+![image](https://github.com/user-attachments/assets/d8960fa1-78cd-4d5a-8cae-d90866830a07)
+
+Today I tackled the effectors and extruder. I adjust the arm length to fit better with the bearing rod ends I am using and designed the effector itself. I am using a bambulabs p1 hotend clone, as it's decent flow for 8 bucks. I did not add part cooling - I am unsure if I will have any. If I do, it will be utilizing compressed air. 
+
+![image](https://github.com/user-attachments/assets/bf8950d3-7d5c-4b07-bcec-367a0e1d80d2)
+
+I duplicated the base effector to the top. I will be using the effector itself as the print bed in this first revision. Later on it may become heated and made out of CF plate, but for now it will be abs with painters tape on it. Lightweight and dirt cheap. 
+
+I optimised the arm length using a wonderful delta analysis tool from my friend Deadlock. https://github.com/dead-lock-ed/DeltaCalcs. Wonderful tool. 
+
+
+![image](https://github.com/user-attachments/assets/b8811687-dabe-4950-bb10-bb2b61c012a8)
+
+This is what the whole printer now looks like. I moved the din rails to the sides of the towers so that they can later on be used to support the idlers. It also doesn't block the view this way. 
+
+
+![image](https://github.com/user-attachments/assets/b03337ee-39cf-4953-a6ea-91837e7f8d9b)
+
+Lastly, I added the boombox extruder by Colphaer. This is the best bowden extruder on the market, using two full size nema 17s to move the filament. Ideally I would pair it with a kevlar sheath around the bowden tube, but that is very expensive, so it will be added later. The reason for the kevlar sheath is that one of the biggest issues with bowden is the fact that the tube can move with the filament. So when filament is extruded, the tube gets pushed out, effectively ruining pressure advance. A tensioned kevlar sheath prevents the tubing from moving. Eventually, I will add this. 
+
+This was all for today. It wasn't nearly as much progress as the last entry, but now you can actually tell it is a 3d printer. 
