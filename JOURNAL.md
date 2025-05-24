@@ -78,3 +78,40 @@ This is what the whole printer now looks like. I moved the din rails to the side
 Lastly, I added the boombox extruder by Colphaer. This is the best bowden extruder on the market, using two full size nema 17s to move the filament. Ideally I would pair it with a kevlar sheath around the bowden tube, but that is very expensive, so it will be added later. The reason for the kevlar sheath is that one of the biggest issues with bowden is the fact that the tube can move with the filament. So when filament is extruded, the tube gets pushed out, effectively ruining pressure advance. A tensioned kevlar sheath prevents the tubing from moving. Eventually, I will add this. 
 
 This was all for today. It wasn't nearly as much progress as the last entry, but now you can actually tell it is a 3d printer. 
+
+
+### 5/24/2025 - 11 hours spent
+
+![image](https://github.com/user-attachments/assets/f0d330f5-eaad-42e6-9f92-a347d3078e90)
+
+Today was a long one. Well, 2 days. Overnighter. But, the printer is finished save for part cooling. Which, technically, is optional. I'll take a look at what I have and what budget is looking like. But the next step is a detailed BOM and then submission!
+
+So, first, I made the idlers. 
+
+![image](https://github.com/user-attachments/assets/202d9099-cb9b-4152-b46a-1c33bb4bca22)
+
+These are fairly simple. Two dead shaft idlers stacked vertically using 3mm screws as the dead shaft. This is also where I am housing the endstop switches. The smart move would be to put them at the very bottom and top of the printer, but I think it would look way cooler to have each delta gantry move one-at-a-time to the center and then back down. 
+Because my tensioners are in the carriages, it makes the idlers very easy.
+
+Also, while doing the idlers, I switched the pulleys and idlers to 16 tooth instead of 20 tooth, and the stepper motors from 1.8 degree to 0.9 degree.  I did this because after using the design tools I mentioned yesterday from Deadlock, I learned that 20 tooth idlers/1.8 degree steppers added an unnaceptable amount of potential locational deviance. The original setup was giving a total max deviance of 0.044mm, or 0.022 per side. This is not very good. With a 16 tooth/0.9 degree setup, I effectively halve that deviance, giving 0.011mm per side or 0.022mm total. These numbers are rounded, of course. This change actually affects the design very little, and saves money!
+
+![image](https://github.com/user-attachments/assets/836debcb-9e9a-4bbe-8017-d5cb1b924815)
+
+Next, I realized I possessed 3 extrusions of 330mm length. The exact size I need! So, I decided to replace the DIN rails with 2040 extrusions. These brace off the top/bottom plates, the printed frames, and the idler stacks. This will add so much rigidity to the printer, significantly increasing the potential maximum acceleration. And, once again, saves money. 
+
+![image](https://github.com/user-attachments/assets/f22cd195-6e5e-472e-a21f-9061a9016809)
+
+I then added the electronics and their respective mounting. I need a power supply, a mainboard, a screen, and an AC fused inlet. All of these were pretty quick to add and either mount on the 2040 extrusions or the printed frame. I chose not to add an electronics enclosure as that would make the printer harder to move. In exchange, I plan on doing NASA spec cable lacing using twine and color-coded wiring. It will be gorgeous - you will see. 
+
+![image](https://github.com/user-attachments/assets/8d4fc891-3c46-4045-854f-8f6fe8c2bf7d)
+
+
+![image](https://github.com/user-attachments/assets/244744cc-c329-4279-9447-f17c46805336)
+
+________________________________________________________________________________________________
+
+![image](https://github.com/user-attachments/assets/ff28ef16-5c2b-402b-8f51-408f7e7ca605)
+
+Last, but certainly not least, I added all the screws. You can see them dotted everywhere - there is, well, a lot. 
+
+The printer is physically finished with everything needed (and some extra of course). I still need to determine the applicability of part cooling and what I can afford. Then, it's a detailed bom, and firmware! I will probably try to order parts before firmware development, as they will take 2-3 weeks to arrive. 
