@@ -1,6 +1,6 @@
 ---
 title: "DoNotDelta"
-author: "Parker Rupe"
+author: "Turtle"
 description: "This is a first-of-its-kind hybrid delta/quantum delta 3d printer."
 created_at: "2025-05-21"
 ---
