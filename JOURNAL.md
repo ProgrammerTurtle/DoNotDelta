@@ -117,7 +117,7 @@ Last, but certainly not least, I added all the screws. You can see them dotted e
 The printer is physically finished with everything needed (and some extra of course). I still need to determine the applicability of part cooling and what I can afford. Then, it's a detailed bom, and firmware! I will probably try to order parts before firmware development, as they will take 2-3 weeks to arrive. 
 
 
-### 5/25/2025 - 7 hours spent 
+### 5/25/2025 (night) - 7 hours spent 
 
 ![image](https://github.com/user-attachments/assets/047ef7ba-4056-4285-bbb8-178217cec5a0)
 
@@ -138,3 +138,18 @@ Basically, the flexible tube goes from the fan to the toolhead, and then passes 
 So yeah. That took 7 hours straight of design. But!! The printer is now completely done design wise - unless budget allows for a better screen. Overall, I am very happy with this design and will be submitting it shortly. 
 
 ![image](https://github.com/user-attachments/assets/a41d3409-154d-444c-b153-6401c276145f)
+
+
+### 5/25/2025 (day) - 4 hours spent
+
+Today was final touches. I adjusted the carbon fiber top and bottom plates to be stronger/cheaper to manufacture, added all the hardware, and last minute decided to design a small heated bed for the printer, which is also made of carbon fiber. I will be using a 15w 24v silicone heater. Super cheap but will get the job done. Overall, very, very happy with this design. 
+
+![image](https://github.com/user-attachments/assets/bd60b481-2ab4-4163-ab0c-5f99cbac9858)
+
+![image](https://github.com/user-attachments/assets/e6e8d90f-5193-4324-9324-b5ceec43e5aa)
+
+![image](https://github.com/user-attachments/assets/02793e6e-21ce-4852-b18d-76866fc9649b)
+
+![image](https://github.com/user-attachments/assets/6f42e468-97d6-433e-b018-75c289465d37)
+
+Now, to write a bom and submit. 
