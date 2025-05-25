@@ -115,3 +115,26 @@ ________________________________________________________________________________
 Last, but certainly not least, I added all the screws. You can see them dotted everywhere - there is, well, a lot. 
 
 The printer is physically finished with everything needed (and some extra of course). I still need to determine the applicability of part cooling and what I can afford. Then, it's a detailed bom, and firmware! I will probably try to order parts before firmware development, as they will take 2-3 weeks to arrive. 
+
+
+### 5/25/2025 - 7 hours spent 
+
+![image](https://github.com/user-attachments/assets/047ef7ba-4056-4285-bbb8-178217cec5a0)
+
+So, today was not actually all that much progress. I swapped the arm joints, made the arms round, and designed part cooling. The arms took an hour. Part cooling took 6. Ouch.
+These are the joints I am now using. They are m3/3 7mm diameter mp-jet joints. Unfortunately, I could not find any existing designs of this part, so I had to recreate it by hand using provided drawings and a list of dimensions - found here https://mpjet.com/shop/img/cms/EN_KuloveCepyPg.png
+
+![image](https://github.com/user-attachments/assets/fa095a2e-fda7-44e1-8749-65157233d441)
+
+And then there was the part cooling. I am using either a deconstructed air duster or a roborock vacuum blower fan as remote cooling via a tube. Whichever fits in budget. I learned all the duct info from a wonderful video by James Pray. https://youtu.be/YijwkQCOBEA?si=hlhMq9mIeUlOrpgG
+Basically, the flexible tube goes from the fan to the toolhead, and then passes through a splitter and gets routed through the delta effector plate via curved geometry inside of the hotend mount. Quite an elegant solution in my opinion, and it's lightweight. While I was at it, I redesigned the entire hotend mount to be lighter and stiffer. No more turtle vent. 
+
+![image](https://github.com/user-attachments/assets/d404eadd-6301-4399-b97c-a055b74e5b23)
+
+![image](https://github.com/user-attachments/assets/7b225bec-e08c-44ef-bc18-163404956f2f)
+
+![image](https://github.com/user-attachments/assets/30eb7474-0df6-4012-a012-b480605228a4)
+
+So yeah. That took 7 hours straight of design. But!! The printer is now completely done design wise - unless budget allows for a better screen. Overall, I am very happy with this design and will be submitting it shortly. 
+
+![image](https://github.com/user-attachments/assets/a41d3409-154d-444c-b153-6401c276145f)
