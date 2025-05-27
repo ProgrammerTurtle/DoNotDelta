@@ -4,6 +4,17 @@ Will be using RRF and even has a heated bed.
 The printer is designed to be perfectly invertible - there is no right side up. 
 0.9 degree steppers and 16t pulleys are basically required to have decent accuracy at this scale. 
 
+Goals of This Machine --
+- Maintain accuracy, despite the fact that all innacuracies are doubled due to two gantries.
+- Develop the kinematics for a delta/quantum delta hybrid
+- Have a test bed for future custom projects, non planar slicing, etc.
+- Rigid Design with 2040 Extrusions and 10mm Linear Rods
+- Printed Parts fit on an Ender 3
+- Tiny Custom Heated Bed
+- Self-Contained RRF with Ethernet
+- All Nema 17 - even Extruder 
+
+
 ![image](https://github.com/user-attachments/assets/7e02e552-41d8-4c4c-9ca3-48f08027efb1)
 
 
