@@ -153,3 +153,14 @@ Today was final touches. I adjusted the carbon fiber top and bottom plates to be
 ![image](https://github.com/user-attachments/assets/6f42e468-97d6-433e-b018-75c289465d37)
 
 Now, to write a bom and submit. 
+
+### 5/27/2025 - 7 hours spent
+
+Today was the last day of design and bom making. I went through my whole budget and realized I have enough left for a better hotend. And, remote hotend heatsink cooling using an aquarium pump. I spent about 4 hours designing the new toolhead and then the remaining 3 were spent on bom making. Also, after getting quotes from SCS and cncmadness, I decided to change all of my cut panels (bed, top/bottom, hotend mount) to 5052 aluminum. It is much cheaper. It is time to submit 
+
+![image](https://github.com/user-attachments/assets/5ed22c0f-e467-4653-8099-2829492e094f)
+
+![image](https://github.com/user-attachments/assets/7e715154-883f-4165-991f-5fa220ed4da6)
+
+![image](https://github.com/user-attachments/assets/dd3050ca-aaf1-4a27-99e3-b09607d25611)
+
