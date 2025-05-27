@@ -5,9 +5,9 @@ description: "This is a first-of-its-kind hybrid delta/quantum delta 3d printer.
 created_at: "2025-05-21"
 ---
 This is my journal of the design and building process of the DoNotDelta. 
+40 logged hours totall
 
-
-### 5/21/2025 - 4 hours spent
+### 5/21/2025 - 5 hours spent
 
 ![image](https://github.com/user-attachments/assets/c7ef615b-b4a7-46b6-9300-a9e6aeef7fd7)
 
