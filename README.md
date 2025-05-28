@@ -15,19 +15,19 @@ Goals of This Machine --
 - All Nema 17 - even Extruder 
 
 
-![image](https://github.com/user-attachments/assets/7e02e552-41d8-4c4c-9ca3-48f08027efb1)
+<p align="center">
+  <img width=800 height=775 src="[https://github.com/ProgrammerTurtle/DoNotDelta/blob/main/photos/donotdeltafront2.png]">
+</p>
 
 
-![image](https://github.com/user-attachments/assets/1275e72c-b84f-4118-8db9-0aea1166a0ef)
+<p align="center">
+  <img width=800 height=775 src="[https://github.com/ProgrammerTurtle/DoNotDelta/blob/main/photos/donotdeltaback.png]">
+</p>
 
 
-![image](https://github.com/user-attachments/assets/12a2ae73-0483-494a-ad8e-e2a5eea92b28)
-
-
-![image](https://github.com/user-attachments/assets/3e3d0897-ae46-41b6-8954-177f25f04d7f)
-
-
-![image](https://github.com/user-attachments/assets/c4ff0476-924b-447b-b09b-e46abd51cba7)
+<p align="center">
+  <img width=1600 height=800 src="[https://i.imgur.com/8BgVXcY.png](https://github.com/ProgrammerTurtle/DoNotDelta/blob/main/photos/donotdelta turtle.png)]">
+</p>
 
 
 | ELECTRONICS | ITEM                                           | UNIT COST        | QUANTITY | TOTAL COST | SOURCE                                                                                     |   |   |                    |                                                                                                                                           |   |   |                       |                                                       |   |   |   |                                                       |   |   |   |                                                       |
