@@ -16,17 +16,17 @@ Goals of This Machine --
 
 
 <p align="center">
-  <img width=800 height=775 src="[https://imgur.com/4Rd1i1w]">
+  <img width=800 height=775 src="https://imgur.com/4Rd1i1w.jpg">
 </p>
 
 
 <p align="center">
-  <img width=800 height=775 src="[https://imgur.com/xH8eIyj]">
+  <img width=800 height=775 src="https://imgur.com/xH8eIyj.jpg">
 </p>
 
 
 <p align="center">
-  <img width=1600 height=800 src="[https://imgur.com/mbgEVuv]">
+  <img width=1600 height=600 src="https://imgur.com/mbgEVuv.jpg">
 </p>
 
 
