@@ -164,3 +164,8 @@ Today was the last day of design and bom making. I went through my whole budget 
 
 ![image](https://github.com/user-attachments/assets/dd3050ca-aaf1-4a27-99e3-b09607d25611)
 
+
+### 5/27/2025 - day time - 4 hours spent
+
+I decided that my repo deserves some proper renders. So, I spent about 3 hours coloring everything as accurate as I can and then an hour playing with render settings and editing photos. You can see the results on the front page of this repo! 
+Worth it!
