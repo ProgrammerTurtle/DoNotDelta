@@ -14,7 +14,7 @@ Goals of This Machine --
 - Tiny Custom Heated Bed
 - Self-Contained RRF with Ethernet
 - All Nema 17 - even Extruder 
-
+- Remote cooling for both hotend heatsink and part cooling, using an aquarium pump and a modified form of CPAP, respectively. 
 
 <p align="center">
   <img width=800 height=775 src="https://imgur.com/4Rd1i1w.jpg">
