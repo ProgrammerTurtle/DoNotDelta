@@ -20,17 +20,17 @@ Goals of This Machine --
 - Remote cooling for both hotend heatsink and part cooling, using an aquarium pump and a modified form of CPAP, respectively. 
 
 <p align="center">
-  <img width=800 height=775 src="https://imgur.com/4Rd1i1w.jpg">
+  <img width=800 src="https://imgur.com/4Rd1i1w.jpg">
 </p>
 
 
 <p align="center">
-  <img width=800 height=775 src="https://imgur.com/xH8eIyj.jpg">
+  <img width=800  src="https://imgur.com/xH8eIyj.jpg">
 </p>
 
 
 <p align="center">
-  <img width=1600 height=600 src="https://imgur.com/mbgEVuv.jpg">
+  <img width=1600 src="https://imgur.com/mbgEVuv.jpg">
 </p>
 
 
