@@ -16,17 +16,17 @@ Goals of This Machine --
 
 
 <p align="center">
-  <img width=800 height=775 src="[https://github.com/ProgrammerTurtle/DoNotDelta/blob/main/photos/donotdeltafront2.png]">
+  <img width=800 height=775 src="[https://imgur.com/4Rd1i1w]">
 </p>
 
 
 <p align="center">
-  <img width=800 height=775 src="[https://github.com/ProgrammerTurtle/DoNotDelta/blob/main/photos/donotdeltaback.png]">
+  <img width=800 height=775 src="[https://imgur.com/xH8eIyj]">
 </p>
 
 
 <p align="center">
-  <img width=1600 height=800 src="[https://i.imgur.com/8BgVXcY.png](https://github.com/ProgrammerTurtle/DoNotDelta/blob/main/photos/donotdelta turtle.png)]">
+  <img width=1600 height=800 src="[https://imgur.com/mbgEVuv]">
 </p>
 
 
