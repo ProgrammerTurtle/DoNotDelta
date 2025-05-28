@@ -5,7 +5,7 @@ description: "This is a first-of-its-kind hybrid delta/quantum delta 3d printer.
 created_at: "2025-05-21"
 ---
 This is my journal of the design and building process of the DoNotDelta. 
-40 logged hours totall
+50 logged hours total
 
 ### 5/21/2025 - 5 hours spent
 
@@ -55,7 +55,7 @@ All that is left is to do is the two effectors (think: toolhead and bed), the be
 
 
 
-### 5/23/2025 - 6 hours spent
+### 5/23/2025 - 8 hours spent
 
 ![image](https://github.com/user-attachments/assets/d8960fa1-78cd-4d5a-8cae-d90866830a07)
 
@@ -80,7 +80,7 @@ Lastly, I added the boombox extruder by Colphaer. This is the best bowden extrud
 This was all for today. It wasn't nearly as much progress as the last entry, but now you can actually tell it is a 3d printer. 
 
 
-### 5/24/2025 - 11 hours spent
+### 5/24/2025 - 12 hours spent
 
 ![image](https://github.com/user-attachments/assets/f0d330f5-eaad-42e6-9f92-a347d3078e90)
 
@@ -117,7 +117,7 @@ Last, but certainly not least, I added all the screws. You can see them dotted e
 The printer is physically finished with everything needed (and some extra of course). I still need to determine the applicability of part cooling and what I can afford. Then, it's a detailed bom, and firmware! I will probably try to order parts before firmware development, as they will take 2-3 weeks to arrive. 
 
 
-### 5/25/2025 (night) - 7 hours spent 
+### 5/25/2025 (night) - 8 hours spent 
 
 ![image](https://github.com/user-attachments/assets/047ef7ba-4056-4285-bbb8-178217cec5a0)
 
@@ -140,7 +140,7 @@ So yeah. That took 7 hours straight of design. But!! The printer is now complete
 ![image](https://github.com/user-attachments/assets/a41d3409-154d-444c-b153-6401c276145f)
 
 
-### 5/25/2025 (day) - 4 hours spent
+### 5/25/2025 (day) - 5 hours spent
 
 Today was final touches. I adjusted the carbon fiber top and bottom plates to be stronger/cheaper to manufacture, added all the hardware, and last minute decided to design a small heated bed for the printer, which is also made of carbon fiber. I will be using a 15w 24v silicone heater. Super cheap but will get the job done. Overall, very, very happy with this design. 
 
@@ -165,7 +165,7 @@ Today was the last day of design and bom making. I went through my whole budget 
 ![image](https://github.com/user-attachments/assets/dd3050ca-aaf1-4a27-99e3-b09607d25611)
 
 
-### 5/27/2025 - day time - 4 hours spent
+### 5/27/2025 - day time - 5 hours spent
 
 I decided that my repo deserves some proper renders. So, I spent about 3 hours coloring everything as accurate as I can and then an hour playing with render settings and editing photos. You can see the results on the front page of this repo! 
 Worth it!
