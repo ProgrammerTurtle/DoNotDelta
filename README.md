@@ -521,7 +521,7 @@ Goals of This Machine --
         <td>$24.29</td>
         <td>1.00</td>
         <td>$24.29</td>
-        <td>https://www.aliexpress.com/item/3256806739148656.html?</td>
+        <td>https://www.aliexpress.com/item/3256806996132993.html?</td>
         <td></td>
         <td></td>
         <td></td>
@@ -534,10 +534,6 @@ Goals of This Machine --
         <td></td>
         <td></td>
         <td>https://www.aliexpress.us/item/2255800794906149.html?</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>https://www.aliexpress.us/item/3256806973435795.html?</td>
     </tr>
     <tr>
         <td></td>
