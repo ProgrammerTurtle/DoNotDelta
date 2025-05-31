@@ -33,7 +33,6 @@ Goals of This Machine --
   <img width=1600 src="https://imgur.com/mbgEVuv.jpg">
 </p>
 
-
 <table>
     <tr>
         <td>ELECTRONICS</td>
@@ -109,11 +108,11 @@ Goals of This Machine --
     </tr>
     <tr>
         <td></td>
-        <td>Mellow SKR WIFI/ETHERNET</td>
+        <td>BTT SKR WIFI</td>
         <td>$10.41</td>
         <td>1.00</td>
         <td>$10.41</td>
-        <td>https://www.aliexpress.us/item/3256807870894913.html?</td>
+        <td>https://www.aliexpress.com/item/3256802767173407.html?</td>
         <td></td>
         <td></td>
         <td></td>
@@ -534,6 +533,10 @@ Goals of This Machine --
         <td></td>
         <td></td>
         <td>https://www.aliexpress.us/item/2255800794906149.html?</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>https://www.aliexpress.us/item/3256806973435795.html?</td>
     </tr>
     <tr>
         <td></td>
@@ -729,7 +732,7 @@ Goals of This Machine --
     </tr>
     <tr>
         <td></td>
-        <td>493zzz Bearing</td>
+        <td>693zz Bearing</td>
         <td>$3.18</td>
         <td>1.00</td>
         <td>$3.18</td>
