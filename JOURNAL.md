@@ -169,3 +169,10 @@ Today was the last day of design and bom making. I went through my whole budget 
 
 I decided that my repo deserves some proper renders. So, I spent about 3 hours coloring everything as accurate as I can and then an hour playing with render settings and editing photos. You can see the results on the front page of this repo! 
 Worth it!
+
+
+### 6/4/2025 - 2 hours spent
+
+Today marks the day that all orders have been placed. Plus, I moved the endstop positions. Having them at the middle, while looking cooler, is asking for a collision. So, I have to move the endstops to the top/bottom. It does make things a tiny bit more complex but thats okay. I may end up changing these to optical end stops for repeatability. Depends on what parts I have. Overall, it was very productive, and being on the call was cool. 
+
+![image](https://github.com/user-attachments/assets/f08442e3-6df6-456d-8b93-b3c1e89e150c)
