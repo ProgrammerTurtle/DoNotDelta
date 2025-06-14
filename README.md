@@ -8,7 +8,7 @@ The printer is designed to be *perfectly invertible* - there is no right side up
 
 This project exists as a proof of concept for an idea I have been considering for a while now - and one that many members of the 3D printing community are very interested in. Having a fully custom printer is a big step towards respect in the community, sponsorships from manufacturers, and most importantly, proof of my learning/knowledge. It will also be a great test bed for future ventures! (custom mainboard or hotend perhaps...)
 
-Big thanks to Burgo.
+Big thanks to Burgo for the idea and Rolohaun's Min Delta project as a big source of design inspiration. 
 
 Goals of This Machine --
 - Maintain accuracy, despite the fact that all innacuracies are doubled due to two gantries.
