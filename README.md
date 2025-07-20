@@ -35,6 +35,11 @@ Goals of This Machine --
   <img width=1600 src="https://imgur.com/mbgEVuv.jpg">
 </p>
 
+
+https://ko-fi.com/turtlegod
+
+
+
 <table>
     <tr>
         <td>ELECTRONICS</td>
