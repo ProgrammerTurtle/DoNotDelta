@@ -36,6 +36,7 @@ Goals of This Machine --
 </p>
 
 
+Buy me a coffee! 
 https://ko-fi.com/turtlegod
 
 
