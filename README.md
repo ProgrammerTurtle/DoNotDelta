@@ -1,4 +1,10 @@
 # DoNotDelta
+
+
+<p align="center">
+  <img width=800 src="https://imgur.com/a/ehxUfrH">
+</p>
+
 The first ever delta/quantum delta hybrid 3D printer.
 
 [![Support me on Ko-fi!](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/turtlegod)
