@@ -1,5 +1,16 @@
 # DoNotDelta
-The first ever delta/quantum delta hybrid 3D printer. 
+The first ever delta/quantum delta hybrid 3D printer.
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('turtlegod', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#5cb85c',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 Both the hotend and bed move independently with delta kinematics. 
 Will be using RRF and even has a heated bed. 
 
@@ -34,10 +45,6 @@ Goals of This Machine --
 <p align="center">
   <img width=1600 src="https://imgur.com/mbgEVuv.jpg">
 </p>
-
-
-Buy me a coffee! 
-https://ko-fi.com/turtlegod
 
 
 
