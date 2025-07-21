@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width=800 src="https://imgur.com/a/ehxUfrH">
+  <img width=800 src="[https://imgur.com/a/ehxUfrH](https://imgur.com/a/ehxUfrH)">
 </p>
 
 The first ever delta/quantum delta hybrid 3D printer.
