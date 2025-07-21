@@ -1,9 +1,7 @@
 # DoNotDelta
 
+https://imgur.com/PSOGKUJh.jpg
 
-<p align="center">
-  <img width=800 src="[https://imgur.com/PSOGKUJh.jpg]">
-</p>
 
 The first ever delta/quantum delta hybrid 3D printer.
 
