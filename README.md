@@ -33,3 +33,10 @@ Goals of This Machine
 
 https://github.com/user-attachments/assets/ef52d5e1-9afe-49bc-82fe-346a3db52177
 
+## Big Thanks to This Project's Sponsors:
+
+[Sunlu](https://www.sunlu.com/)
+
+[OMC-StepperOnline](https://www.omc-stepperonline.com/)
+
+[HackClub](https://hackclub.com/)
