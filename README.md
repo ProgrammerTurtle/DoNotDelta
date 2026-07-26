@@ -7,6 +7,7 @@
 
 
 The first ever delta/quantum delta hybrid 3D printer.
+In this repository can be found the full CAD, Firmware, and a journal of the entire Design Process.
 
 [![Support me on Ko-fi!](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/turtlegod)
 
